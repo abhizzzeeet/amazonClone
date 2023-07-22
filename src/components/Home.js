@@ -16,12 +16,42 @@ function Home() {
       </Banner>
 
       <Main>
-        <Card/>
-        <Card/>
-        <Card/>
-        <Card/>
-        <Card/>
-        <Card/>
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
+        <Card
+          image={"https://www.sony.co.in/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF"}
+          price={3499}
+          rating={3}
+          title={"Echo dot 3rd Gen"}
+        />
 
 
       </Main>
@@ -32,7 +62,7 @@ function Home() {
 const Container = styled.div`
   width: 100%;
   background-color: rgb(234, 237, 237);
-  max-width: 1400px;
+  max-width: 4909px;
   margin: auto;
   height: fit-content;
 `;
