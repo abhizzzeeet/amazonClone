@@ -1,2 +1,1 @@
-# uuuuu
-# amazoneClone
+
